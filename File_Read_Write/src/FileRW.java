@@ -11,7 +11,6 @@ public class FileRW {
 	private Scanner scanner;
 
 	private File file;
-	
 	private FileWriter fileWriter;
 	private BufferedWriter buffWriter;
 
